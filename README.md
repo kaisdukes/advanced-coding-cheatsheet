@@ -2,6 +2,8 @@
 
 Essential terminal commands for Git and TypeScript.
 
+[Dr. Kais Dukes](https://github.com/kaisdukes)
+
 ## Git
 
 ### Clean display of git log
