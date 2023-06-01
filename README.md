@@ -1,5 +1,7 @@
 # Terminal Cheatsheet
 
+Essential terminal commands for Git and TypeScript.
+
 ## Git
 
 ### Clean display of git log
