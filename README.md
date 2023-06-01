@@ -1,6 +1,6 @@
 # Terminal Cheatsheet
 
-Essential terminal commands for Git and TypeScript.
+🔥🔥 Essential terminal commands for Git and TypeScript. 🔥🔥
 
 [Dr. Kais Dukes](https://github.com/kaisdukes)
 
