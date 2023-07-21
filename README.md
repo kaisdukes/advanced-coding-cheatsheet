@@ -1,6 +1,6 @@
 # Advanced Coding Cheatsheet
 
-🔥🔥 Step up your coding game with Git and TypeScript commands the internet has kept under wraps 🔥🔥
+🔥🔥 Step up your coding game with Git, TypeScript and AWS commands the internet has kept under wraps 🔥🔥
 
 [Dr. Kais Dukes](https://github.com/kaisdukes)
 
@@ -30,4 +30,10 @@ npx tsc --noEmit
 
 ```
 await new Promise<void>(resolve => setTimeout(() => resolve(), 2000));
+```
+
+### One line text-to-speech generation
+
+```
+aws polly synthesize-speech --output-format mp3 --voice-id Emma --text "$(cat message.txt)" --engine neural --region us-east-1 message.mp3
 ```
